@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Programming, Machine Learning, Electronics
 -->
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidi005)](https://github.com/anuraghazra/github-readme-stats)-->
+- ⚡ Fun fact: Programming, Machine Learning, Electronics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidi005&count_private=true&show_icons=true&theme=blue-green)
 
